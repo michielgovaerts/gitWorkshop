@@ -1,1 +1,2 @@
-leuk tekstje
+leuk tekstje.
+minder leuk tekstje
